@@ -1,0 +1,5 @@
+{
+  "name": "VoxelVerse Shooter",
+  "description": "An open-world, Minecraft-style shooting game built with React and Three.js. Explore a blocky landscape, control your character with a virtual joystick or keyboard, and modify the world by shooting blocks.",
+  "requestFramePermissions": []
+}
